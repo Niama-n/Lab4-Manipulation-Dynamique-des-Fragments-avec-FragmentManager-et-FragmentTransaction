@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="@color/lightPurple">
+
+    <TextView
+        android:id="@+id/tvValue"
+        android:layout_width="126dp"
+        android:layout_height="48dp"
+        android:text="Value: 0"
+        android:textColor="@color/primaryDarkPurple"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:max="100"
+        android:progressDrawable="@android:color/transparent"
+        android:thumbTint="@color/primaryPurple" />
+
+</LinearLayout>
