@@ -6,6 +6,12 @@ Vous pouvez visualiser le test de l'application ici :
 ---
 
 
+https://github.com/user-attachments/assets/4e0ec920-9b2b-48a5-b0af-f87a08b49ff7
+
+
+
+
+
 ## 🎯 Objectif général
 Ce projet a pour objectif de:
 - Créer et utiliser des fragments dynamiques dans une activité.
